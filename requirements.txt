@@ -3,7 +3,7 @@ openbabel
 tensorflow==2.16.1
 rdkit
 hyperopt
-scikit-learn3
+scikit-learn
 matplotlib
 streamlit==1.22
 
