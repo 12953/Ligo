@@ -1,4 +1,3 @@
-build-essential
 pyproject
 wheel
 setuptools
