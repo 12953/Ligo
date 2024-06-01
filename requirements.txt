@@ -1,9 +1,9 @@
 
 openbabel 
-tensorflow==2.3
+tensorflow==2.16
 rdkit
 hyperopt
-scikit-learn
+scikit-learn3
 matplotlib
 streamlit==1.22
 
