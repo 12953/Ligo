@@ -8,5 +8,5 @@ rdkit
 hyperopt
 scikit-learn
 matplotlib
-streamlit==1.22
+
 
