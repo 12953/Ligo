@@ -1,8 +1,6 @@
 openbabel 
 tensorflow==2.3
 rdkit
-numpy
-pandas
 hyperopt
 scikit-learn
 matplotlib
