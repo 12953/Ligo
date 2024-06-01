@@ -1,4 +1,5 @@
 pyproject
+wheel
 openbabel-wheel
 openbabel 
 tensorflow==2.16.1
