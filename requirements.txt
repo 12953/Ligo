@@ -1,6 +1,6 @@
 
 openbabel 
-tensorflow==2.16
+tensorflow==2.16.1
 rdkit
 hyperopt
 scikit-learn3
