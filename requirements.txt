@@ -1,7 +1,7 @@
 pyproject
 wheel
 openbabel-wheel
-openbabel 
+-c openbabel openbabel
 tensorflow==2.16.1
 rdkit
 hyperopt
