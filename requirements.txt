@@ -1,4 +1,3 @@
-MSVC
 pyproject
 wheel
 setuptools
