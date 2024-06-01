@@ -4,6 +4,7 @@ tensorflow==2.16.1
 rdkit
 hyperopt
 scikit-learn
+pyproject
 matplotlib
 streamlit==1.22
 
